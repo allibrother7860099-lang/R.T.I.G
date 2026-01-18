@@ -1,0 +1,7 @@
+{
+  "name": "Rama Technical Institute Student Management",
+  "description": "A comprehensive student management system for Rama Technical Institute (R.T.I) to manage student records, allow search by roll number, and generate professional certificates/PDFs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
